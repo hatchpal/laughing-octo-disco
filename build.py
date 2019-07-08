@@ -1,25 +1,7 @@
 
-#--------------------------------------
+# Auto-Discovery of Content Files
 
 # print('This is working')
-
-# def main():
-
-# 	top = ("template/top.html")
-# 	bottom = ("template/bottom.html")
-# 	about = ("content/about.html")
-# 	experience = ("content/experience.html")
-# 	skills = ("content/skills.html")
-# 	contact = ("content/contact.html")
-
-# #Combine top.html and bottom.html into base.html with {{content}}
-# 	top_template = open(top).read()
-# 	bottom_template = open(bottom).read()
-# 	base_template = top_template + "{{content}}" + bottom_template
-# 	open('template/base.html', 'w+').write(base_template)
-
-# if __name__ == "__main__":
-# 	main()
 
 
 # write in base.html the navigation links
